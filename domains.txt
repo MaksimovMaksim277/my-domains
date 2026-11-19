@@ -1,0 +1,15 @@
+zerotier.com
+baseussecurity.com
+ipc-public.baseussecurity.com
+baseuscloud.com
+cdnus.baseuscloud.com
+xmeu.xmviot.net
+ec2-13-39-192-234.eu-west-3.compute.amazonaws.com
+ec2-13-41-132-126.eu-west-2.compute.amazonaws.com
+ec2-18-184-40-7.eu-central-1.compute.amazonaws.com
+172-238-112-8.ip.linodeusercontent.com
+18.184.40.7/32
+13.41.132.126/32
+13.39.192.234/32
+8.211.24.73/32
+172.238.112.8/32
